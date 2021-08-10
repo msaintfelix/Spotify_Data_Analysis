@@ -1,4 +1,5 @@
 .DS_Store
+.idea/
 Dataset/
 
 # Byte-compiled / optimized / DLL files
